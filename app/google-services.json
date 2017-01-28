@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "666548166335",
+    "firebase_url": "https://ros-e-stop.firebaseio.com",
+    "project_id": "ros-e-stop",
+    "storage_bucket": "ros-e-stop.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:666548166335:android:0e58543b51e6e2cc",
+        "android_client_info": {
+          "package_name": "com.example.levi.ros_e_stop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "666548166335-p2aigr1ruvdtnb9nabu7p8bstm7hahkj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.levi.ros_e_stop",
+            "certificate_hash": "04898F73CA3F1C8ACADDC1784B92CA51D195A865"
+          }
+        },
+        {
+          "client_id": "666548166335-4mp6fbbo6ou90hbdl6sk6f95l94hm9tg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOH-escSA9qIdWGeB5V2W7ruEWyZ_9uds"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "666548166335-4mp6fbbo6ou90hbdl6sk6f95l94hm9tg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
